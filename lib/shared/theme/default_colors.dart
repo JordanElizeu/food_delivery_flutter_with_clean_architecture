@@ -7,4 +7,5 @@ class DefaultColors {
   static const Color secondaryColor = Color(0xFFEDB727);
   static const Color errorColor = Color(0xFFD02E2E);
   static const Color iconColor = Color(0xFFFFFFFF);
+  static const Color dividerColor = Color(0xFFF0EFF9);
 }
