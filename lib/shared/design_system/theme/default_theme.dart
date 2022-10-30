@@ -25,10 +25,10 @@ class DefaultTheme {
       brightness: Brightness.light,
       onPrimary: DefaultColors.primaryColor,
       surface: DefaultColors.secondaryColor,
-      secondary: DefaultColors.background,
+      secondary: DefaultColors.backgroundColor,
       primary: DefaultColors.primaryColor,
       onSurface: DefaultColors.secondaryColor,
-      background: DefaultColors.background,
+      background: DefaultColors.backgroundColor,
     ),
     textTheme: const TextTheme(
       headline2: TextStyle(
